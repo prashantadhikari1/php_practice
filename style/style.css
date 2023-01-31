@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+}
+.heading{
+    background-color: aliceblue;   
+    color: coral;
+    padding: 4px;
+}
+.heading h1{
+display: flex;
+justify-content: center;
+}
+.detail{
+    background: rgb(233, 233, 228);
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.textstyle{
+    /* height: 19px; */
+    width: 40vh;
+    margin: 12px;
+    padding: 6px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.gender-section{
+    padding: 0px 15px;
+}
+.gender-section p{
+    padding: 15px;
+}
+
+.submit{
+    width: 45vh;
+    background-color: #4CAF50;
+    border-radius: 5px;
+    border: 1px solid white;
+    padding: 5px 25px;
+    margin: 15px 5px 3px;
+    cursor: pointer;
+    color: white;
+
+}
+.submit:hover{
+    background-color: #45a049;
+}
+
+/* second form  */
+.calc{
+    margin-top: 5vh;
+    padding: 20px;
+}
+
+
